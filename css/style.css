@@ -413,6 +413,19 @@ label {
 }
 
 .navbar-brand img{
-	width: 200px;
-	margin-top: -13px;
+	width: 138px;
+	height: 60px;
+	margin-top: -18px;
+}
+.pad-title{
+	padding-top: 30px;
+}
+.about-icon{
+	padding: 60px 0 10px 0;
+}
+.about-text{
+	padding: 70px 0 10px 0;
+}
+.about-text a{
+	font-size: 25px;
 }
